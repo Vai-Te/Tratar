@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.container {
+    outline: solid 0px blue;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center {
+    outline: solid 0px red;
+    display: grid;
+}
+
+progress {
+    width: 50%;
+    left: 25%;
+    position:relative;
+}
+
+#hours {
+    color: white;
+    font-size: 2.5rem;
+}
