@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Fiendish";
-    src: url(".content/Fiendish.ttf") format("truetype");
+    src: url("https://github.com/Vai-Te/Tratar/blob/main/.content/Fiendish.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Skulls";
-    src: url(".content/only\ skulls.ttf") format("truetype");
+    src: url("https://github.com/Vai-Te/Tratar/blob/main/.content/only%20skulls.ttf") format("truetype");
 }
 
 
